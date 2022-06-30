@@ -49,7 +49,7 @@ const ThoughtSchema = new Schema(
     id: false,
   }
 );
-
+// reactions virtual displaying total number of reactions (reply comments);
 ThoughtSchema.virtual('reactionCount').get(function () {
   return this.reactions.length;
 });
