@@ -8,8 +8,6 @@ In this project, I built an API for a social network web application where users
 
 Packages used includes Express.js for routing, and Mongoose packages.
 
-![alt text](https://github.com/jdeschat/social-network/blob/main/assets/img/social-network.png)
-
 ## Table of Contents
 
 - [Description](#description)
